@@ -1,0 +1,18 @@
+---
+title: "CV"
+description: "Curriculum vitae of Pablo Villar-Abeijón, Geography researcher at Universitat Autònoma de Barcelona."
+---
+
+```{=html}
+<header class="page-hero inner-hero"><h1>CV</h1></header>
+```
+
+::: {.site-content}
+
+[Download CV (PDF)](assets/files/cv_august26.pdf){.email-button}
+
+```{=html}
+<object class="cv-viewer" data="assets/files/cv_august26.pdf" type="application/pdf"><p><a href="assets/files/cv_august26.pdf">Open the CV as a PDF.</a></p></object>
+```
+
+:::

@@ -1,0 +1,38 @@
+---
+title: "Publications"
+description: "Publications by Pablo Villar-Abeijón on pedestrianization, urban transformations, housing affordability and gentrification."
+---
+
+```{=html}
+<header class="page-hero inner-hero"><h1>Publications</h1></header>
+```
+
+::: {.site-content}
+
+## **2026**
+
+-   Mombelli, S., Cubells, J., **Villar-Abeijón, P.**, & Marquet, O. (2026). Media framing and political discourse of Barcelona's urban transformations (2016--2024). ***Cities***, *179*, 107443. doi: [10.1016/j.cities.2026.107443](https://doi.org/10.1016/j.cities.2026.107443)**.** **Q1/D1** in Urban Studies (SJR).
+
+\
+
+-   **Villar-Abeijón, P.**, Fernández Núñez, M. B., & Marquet, O. (2026). Perceived vs. objective gentrification: Bridging measurements of neighborhood change. ***Journal of Urban Affairs***, 1--26. doi: [10.1080/07352166.2026.2638887](https://www.tandfonline.com/doi/full/10.1080/07352166.2026.2638887). **Q1** in Urban Studies (SJR).
+
+\
+
+-   **Villar-Abeijón, P.**, Miralles-Guasch, C., & Marquet, O. (2026). The effects of pedestrianization on commercial dynamics a quasi-experimental study in Barcelona. ***Applied Geography***, 189, 103947. doi: [10.1016/j.apgeog.2026.103947](https://www.sciencedirect.com/science/article/pii/S0143622826000573). **Q1/D1** in Geography, Planning and Development (SJR).
+
+\
+
+-   **Villar-Abeijón, P.**, Miralles-Guasch, C., & Marquet, O. (2026). The impact of proximity to amenities on housing affordability: Insights from Mediterranean 15-minute cities. ***Cities***, 172, 106859. doi: [10.1016/j.cities.2026.106859](https://www.sciencedirect.com/science/article/pii/S0264275126000910). **Q1/D1** in Urban Studies (SJR).
+
+## **2025**
+
+-   **Villar-Abeijón, P.**, Miralles Guasch, C., & Marquet Sardà, O. (2025). Can pedestrianization trigger gentrification? ***Transportation Research Part D: Transport and Environment***, 142, 104718. doi: [10.1016/j.trd.2025.104718](https://www.sciencedirect.com/science/article/pii/S1361920925001282?via%3Dihub). **Q1/D1** in Transportation (SJR).
+
+---
+
+## **Non-peer-reviewed publications**
+
+-   Urbanisme de proximitat i mercat de lloguer: el repte de no morir d'èxit (2026). *5cèntims, Blog de la Societat Catalana d\'Economia*. [Link](https://www.5centims.cat/urbanisme-de-proximitat-i-mercat-de-lloguer-el-repte-de-no-morir-dexit/).
+
+:::

@@ -1,0 +1,48 @@
+---
+title: "Presentations & Conferences"
+description: "Conference presentations by Pablo Villar-Abeijón in urban planning, geography and housing research."
+---
+
+```{=html}
+<header class="page-hero inner-hero"><h1>Presentations &amp; Conferences</h1></header>
+```
+
+::: {.site-content}
+
+## **2026**
+
+-   **WPSC.** World Planning Schools Congress, **Helsinki** (Finland). 
+
+    *Pedestrianization and Retail. A New Trigger for Commercial Gentrification in Barcelona?*
+
+## **2025**
+
+-   **AESOP.** Association of European Schools of Planning Annual Congress, **Istanbul** (Türkiye). 
+
+    *Can pedestrianization trigger gentrification? Insights from Barcelona's streets.*
+
+\
+
+-   **ENHR.** European Network for Housing Research Conference. **Grand Paris** (France). 
+
+    *Can pedestrianization trigger gentrification?*
+
+## **2024**
+
+-   **AESOP.** Association of European Schools of Planning Annual Congress, **Paris** (France). 
+
+    *The 15-Minute City And Housing Affordability. Insights From The Spanish Cities Of Barcelona, Valencia, Palma And Granada.*
+
+\
+
+-   **Urban Transitions**. **Sitges** (Spain). 
+
+    *Can pedestrianization trigger gentrification? Insights from Barcelona's streets.*
+
+\
+
+-   **IAPS**. International Conference Association of People-Environment Studies, **Barcelona** (Spain).
+
+    *The impact of proximity to amenities on housing affordability. Insights from Mediterranean 15-minute cities.*
+
+:::

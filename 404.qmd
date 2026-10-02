@@ -1,0 +1,12 @@
+---
+title: "Page not found"
+search: false
+---
+
+::: {.site-content}
+
+# Page not found
+
+[Return to the home page](index.qmd).
+
+:::

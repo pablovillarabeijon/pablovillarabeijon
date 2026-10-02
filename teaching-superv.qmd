@@ -1,0 +1,36 @@
+---
+title: "Teaching & Supervision"
+description: "Teaching and thesis supervision by Pablo Villar-Abeijón at Universitat Autònoma de Barcelona."
+---
+
+```{=html}
+<header class="page-hero inner-hero"><h1>Teaching &amp; Supervision</h1></header>
+```
+
+::: {.site-content}
+
+## **Supervised Work**
+
+## **2026**
+
+-   **Master's Thesis.** *Commercial Gentrification: A Qualitative Analysis of Aesthetic Markers in Pedestrianized and Non-Pedestrianized Streets in Barcelona*. **Raquel Torres Aponte.** Co-supervised with Oriol Marquet.
+
+MA in Interdisciplinary Studies in Environmental, Economic and Social Sustainability. Universitat Autònoma de Barcelona (UAB).
+
+---
+
+## **Teaching**
+
+## **2026**
+
+-   ***Geographical Visions of the World***. BA in Humanities. Universitat Autònoma de Barcelona (UAB). 
+
+Teaching assistant. Delivered lectures and practical lessons.
+
+## **2025**
+
+-   ***Urban Policies: Housing, Neighborhoods and Transport***. BA in Geography, Environment and Territorial Planning. Universitat Autònoma de Barcelona (UAB). 
+
+Teaching assistant. Delivered practical lessons.
+
+:::

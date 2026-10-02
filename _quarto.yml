@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research-lines.qmd
+    - cv.qmd
+    - publications.qmd
+    - presentations-conferences.qmd
+    - teaching-superv.qmd
+    - 404.qmd
+  resources:
+    - assets/**
+    - site.js
+    - robots.txt
+
+website:
+  title: "Pablo Villar-Abeijón"
+  description: "Geography researcher at UAB studying sustainable urban transformations, mobility and gentrification."
+  # For local builds, optionally add your real URL here.
+  # GitHub Actions fills this automatically from the Pages settings.
+  # site-url: "https://YOUR_USERNAME.github.io/"
+  favicon: assets/favicon.svg
+  image: assets/images/portrait.jpg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: "pablo villar-abeijon"
+    background: "#c9cebf"
+    foreground: "#171717"
+    collapse-below: xl
+    right:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Research lines"
+        href: research-lines.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Presentations & Conferences"
+        href: presentations-conferences.qmd
+      - text: "Teaching & Superv."
+        href: teaching-superv.qmd
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: en
+    page-layout: full
+    toc: false
+    title-block-banner: false
+    include-after-body: footer.html
+    anchor-sections: false
+    canonical-url: true
+    smooth-scroll: true
+
+execute:
+  enabled: false
