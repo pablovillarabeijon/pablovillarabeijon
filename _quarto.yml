@@ -55,6 +55,9 @@ format:
     toc: false
     title-block-banner: false
     include-after-body: footer.html
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="Tu4FsZrRtElVMlq8A8W2QQ0XR5SEXof4UOGI4HFRwaA" />
     anchor-sections: false
     canonical-url: true
     smooth-scroll: true
