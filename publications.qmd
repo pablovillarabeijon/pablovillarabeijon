@@ -11,6 +11,10 @@ description: "Publications by Pablo Villar-Abeijón on pedestrianization, urban 
 
 ## **2026**
 
+-   **Villar-Abeijón, P.**, & Rodríguez-Barcón, A. (2026). Xentrificación na Galicia urbana: unha proposta metodolóxica para cidades medianas aplicada á Coruña, Santiago de Compostela e Vigo. ***Scripta Nova. Revista Electrónica de Geografía y Ciencias Sociales***, *30*. doi: [10.1344/sn2026.30.53466](https://doi.org/10.1344/sn2026.30.53466)**.** **Q3** in Geography, Planning and Development (SJR).
+
+\
+
 -   Mombelli, S., Cubells, J., **Villar-Abeijón, P.**, & Marquet, O. (2026). Media framing and political discourse of Barcelona's urban transformations (2016--2024). ***Cities***, *179*, 107443. doi: [10.1016/j.cities.2026.107443](https://doi.org/10.1016/j.cities.2026.107443)**.** **Q1/D1** in Urban Studies (SJR).
 
 \
