@@ -129,4 +129,8 @@ This research explores whether concerns about neighbourhood change and perceived
 
 Gentrification research has largely focused on major metropolitan areas, while smaller and medium-sized cities have received comparatively less attention. This research adapts quantitative approaches to identify and measure gentrification dynamics in less-studied urban contexts, using the main cities in Galicia (A Coruña, Santiago de Compostela and Vigo) as a case study. By combining socioeconomic indicators with spatial analysis, it reveals different patterns of neighbourhood transformation, including state-led gentrification, studentification and touristification.
 
+**Related papers:**
+
+[Xentrificación na Galicia urbana: unha proposta metodolóxica para cidades medianas aplicada á Coruña, Santiago de Compostela e Vigo](https://doi.org/10.1344/sn2026.30.53466)
+
 :::
