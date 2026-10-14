@@ -10,6 +10,12 @@ description: "Conference presentations by Pablo Villar-Abeijón in urban plannin
 ::: {.site-content}
 
 ## **2026**
+-   **CIG26.** XIX Coloquio Ibérico de Geografía, **Lugo** (Galicia). 
+
+    *Movilidad activa y justicia socio-territorial en Barcelona: Un análisis multidimensional de la pacificación urbana y su relación con la gentrificación*
+    *Dinámicas de gentrificación en la Galicia urbana: una propuesta metodológica para ciudades medianas*
+
+\
 
 -   **WPSC.** World Planning Schools Congress, **Helsinki** (Finland). 
 
