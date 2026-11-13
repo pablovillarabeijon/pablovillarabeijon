@@ -10,11 +10,19 @@ description: "Conference presentations by Pablo Villar-Abeijón in urban plannin
 ::: {.site-content}
 
 ## **2026**
+-   **Urban Transitions 2026.** International Conference on Urban Transitions, **Sitges** (Spain).
+
+    - *Does perceived gentrification undermine support for urban mobility policies? Exploratory evidence on Barcelona's Superblocks. * (Oral)
+
+    - *Active mobility interventions and gentrification. Can transformations in the built environment lead to changes in social composition?* (Poster)
+
+\
+
 -   **CIG26.** XIX Coloquio Ibérico de Geografía, **Lugo** (Galicia).
 
-    - *Movilidad activa y justicia socio-territorial en Barcelona: Un análisis multidimensional de la pacificación urbana y su relación con la gentrificación*
+    - *Movilidad activa y justicia socio-territorial en Barcelona: Un análisis multidimensional de la pacificación urbana y su relación con la gentrificación* (Oral)
 
-    - *Dinámicas de gentrificación en la Galicia urbana: una propuesta metodológica para ciudades medianas*
+    - *Dinámicas de gentrificación en la Galicia urbana: una propuesta metodológica para ciudades medianas* (Poster)
 
 \
 
